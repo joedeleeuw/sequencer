@@ -1,0 +1,35 @@
+{
+  "name": "sequencer",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "emotion": "^9.0.1",
+    "lodash": "^4.17.5",
+    "material-ui": "^0.20.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-emotion": "^9.0.1",
+    "react-scripts-ts": "2.13.0",
+    "recompose": "^0.26.0",
+    "tone": "^0.11.11",
+    "ts-log-debug": "^4.0.2",
+    "uuid": "^3.2.1"
+  },
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  },
+  "devDependencies": {
+    "@types/material-ui": "^0.20.7",
+    "@types/recompose": "^0.24.5",
+    "@types/jest": "^22.1.2",
+    "@types/lodash": "^4.14.102",
+    "@types/node": "^9.4.5",
+    "@types/react": "^16.0.38",
+    "@types/react-dom": "^16.0.4",
+    "babel-plugin-emotion": "^9.0.1",
+    "typescript": "^2.7.1"
+  }
+}
